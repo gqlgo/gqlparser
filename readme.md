@@ -5,6 +5,12 @@ gqlparser is a graphql parser package for Go. original: [vektah/gqlparser](https
 
 You can see [compare](https://github.com/vektah/gqlparser/compare/master...gqlgo:master) with the original.
 
+### Install
+
+```
+$ go get -u github.com/gqlgo/gqlparser/v2@master
+```
+
 ## About gqlparser
 
 This is a parser for graphql, written to mirror the graphql-js reference implementation as closely while remaining idiomatic and easy to use.
